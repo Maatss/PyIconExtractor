@@ -7,8 +7,11 @@ Example usage:
     python icon_extractor.py 'my/exe/folder'
     python icon_extractor.py 'my/exe.lnk'
 
+
 Author: Maatss
 Date: 2023-10-03
+GitHub: https://github.com/Maatss/PyIconExtractor
+Version: 1.0
 """
 
 import argparse
