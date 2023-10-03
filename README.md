@@ -1,9 +1,5 @@
 # PyIconExtractor - *Get those icons*
 
-![GitLab Release (by release name)](https://img.shields.io/gitlab/v/release/PyIconExtractor?style=flat-square&logo=github)
-
-## Introduction
-
 PyIconExtractor is a Python script that uses [7zip](https://7-zip.org/) to extract icons from executable files. It is a simple script with only 3 dependencies: [7zip](https://7-zip.org/), [pywin32](), and [send2trash](https://pypi.org/project/Send2Trash/).
 
 ## Usage
