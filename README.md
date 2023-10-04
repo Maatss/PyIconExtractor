@@ -4,11 +4,11 @@ PyIconExtractor is a Python script that uses [7zip](https://7-zip.org/) to extra
 
 ## Usage
 
-1. Clone the repository or download the latest release from the [releases page](https://github.com/Maatss/PyIconExtractor)
+1. Clone the repository or download the latest release from the [releases page](https://github.com/Maatss/PyIconExtractor).
 2. Run the script using one of the following methods:
-    1. Drag-and-drop your files or folder directly on the `run_script_in_virtual_env.bat` script
-    2. Run the `build_virtual_env_only.bat` and then invoke the python script with your arguments in the provided terminal
-    3. Run the `icon_extractor.py` script directly
+    1. Drag-and-drop your files or folder directly on the `run_script_in_virtual_env.bat` script.
+    2. Run the `build_virtual_env_only.bat` and then invoke the python script with your arguments in the provided terminal.
+    3. Run the `icon_extractor.py` script directly with your global python installation.
 
 ## Details
 
